@@ -1,0 +1,81 @@
+[
+  {
+    "id": "tshirt-classic",
+    "name": "SA9R 1er",
+    "category": "tshirt",
+    "price": 12.99,
+    "sizes": ["S", "M", "L"],
+    "colors": ["black", "white"],
+    "images": {
+      "front": "../public/Image/lo.jpg",
+      "back": "../public/Image/lo1.jpg"
+    },
+    "description": "Premium cotton t-shirt with SA9R logo. Comfortable fit and durable design."
+  },
+  {
+    "id": "tshirt-vintage",
+    "name": "صقر",
+    "category": "tshirt",
+    "price": 12.99,
+    "sizes": ["S", "M", "L"],
+    "colors": ["black", "white"],
+    "images": {
+      "front": "../public/Image/ds1.jpg",
+      "back": "../public/Image/ds2.jpg"
+    },
+    "description": "T-shirt with distressed SA9R logo for a classic streetwear look."
+  },
+  {
+    "id": "tshirt-new",
+    "name": "SA9R WAVE",
+    "category": "tshirt",
+    "price": 12.99,
+    "sizes": ["S", "M", "L"],
+    "colors": ["black", "white"],
+    "images": {
+      "front": "../public/Image/gr.jpg",
+      "back": "../public/Image/gr1.jpg"
+    },
+    "description": "Urban streetwear t-shirt with bold SA9R graphics. Perfect for everyday wear."
+  },
+  {
+    "id": "hoodie-essential",
+    "name": "SA9R VYRA Hoodie",
+    "category": "hoodie",
+    "price": 14.99,
+    "sizes": ["S", "M", "L"],
+    "colors": ["black", "white"],
+    "images": {
+      "front": "../public/Image/l9.jpg",
+      "back": "../public/Image/l92.jpg"
+    },
+    "description": "Cozy pullover hoodie with kangaroo pocket and embroidered SA9R logo."
+  },
+  {
+    "id": "hoodie-premium",
+    "name": "SA9R DRFT Hoodie",
+    "category": "hoodie",
+    "price": 14.99,
+    "sizes": ["S", "M", "L"],
+    "colors": ["black", "white"],
+    "images": {
+      "front": "../public/Image/of.jpg",
+      "back": "../public/Image/of1.jpg"
+    },
+    "description": "Premium heavyweight hoodie with fleece lining and oversized SA9R branding."
+    },
+    {
+    "id": "hoodie-first",
+    "name": "SA9R FACE Hoodie",
+    "category": "hoodie",
+    "price": 14.99,
+    "sizes": ["S", "M", "L"],
+    "colors": ["black", "white"],
+    "images": {
+      "front": "../public/Image/hl.jpg",
+      "back": "../public/Image/hl1.png"
+    },
+    "description": "Classic hoodie with SA9R logo placement. Versatile and comfortable for any occasion."
+  }
+  
+]

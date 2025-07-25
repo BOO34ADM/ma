@@ -252,7 +252,7 @@ export default function Checkout() {
                     conditions.
                   </p>
                   <p className="mt-2">
-                    You will receive an order confirmation via email shortly.
+                    Welcome to our store! We'll sort out the payment after talking on WhatsApp.
                   </p>
                 </div>
               </div>

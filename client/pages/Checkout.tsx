@@ -249,7 +249,7 @@ export default function Checkout() {
                 <div className="text-sm text-gray-600 mt-4">
                   <p>
                     By placing this order, you agree to our terms and
-                    conditions.
+                    conditions.(Enjoy free shipping on all orders within Kenitra)
                   </p>
                   <p className="mt-2">
                     Welcome to our store! We'll sort out the payment after talking on WhatsApp.
